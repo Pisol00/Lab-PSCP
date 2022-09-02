@@ -1,3 +1,3 @@
-# Lab - PSCP
+# PSCP - Lab
 
 For reference, do not copy!
