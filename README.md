@@ -1,2 +1,3 @@
 # Lab-PSCP
-## I love PSCP.
+
+For reference, do not copy!
