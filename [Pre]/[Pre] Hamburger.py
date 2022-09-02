@@ -1,4 +1,4 @@
-"""IG: gxmp.a"""
+"""For reference, do not copy!"""
 
 
 def main(l_bread, r_bread):

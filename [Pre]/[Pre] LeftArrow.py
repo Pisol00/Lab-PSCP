@@ -1,4 +1,4 @@
-"""IG: gxmp.a"""
+"""For reference, do not copy!"""
 
 
 def main(range_arrow, height_arrow):

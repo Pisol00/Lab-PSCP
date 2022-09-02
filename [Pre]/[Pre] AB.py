@@ -1,4 +1,4 @@
-"""IG: gxmp.a"""
+"""For reference, do not copy!"""
 
 
 def main(num_a, num_b):

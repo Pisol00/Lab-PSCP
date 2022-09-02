@@ -1,4 +1,4 @@
-"""IG: gxmp.a"""
+"""For reference, do not copy!"""
 
 
 def main(picking, score, ace):
